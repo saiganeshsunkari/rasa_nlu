@@ -1,0 +1,181 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+	"text": "hey",
+        "intent": "Greetings",
+	"entities": []
+      },
+      {
+        "text": "howdy",
+	"intent": "Greetings",
+        "entities": []
+      },
+      {
+        "text": "hey there",
+	"intent": "Greetings",
+        "entities": []
+      },
+      {
+        "text": "hello",
+	"intent": "Greetings",
+        "entities": []
+      },
+      {
+	"text": "What things can you do",
+	"intent": "Capabilities",
+	"entities": []
+      },
+      {
+        "text": "Tell me what to do",
+	"intent": "Capabilities",
+        "entities": []
+      },
+      {
+	"text": "How can you help me",
+	"intent": "Capabilities",
+	"entities": []
+      },
+      {
+        "text": "Can you do anything that helps me?",
+	"intent": "Capabilities",
+	"entities": []
+      },
+      {
+	"text": "Can you do anything that helps me drive?",
+	"intent": "Capabilities",
+	"entities": []
+      },
+      {
+	"text": "bye bye",							        "intent": "ThankYou",
+	"entities": []
+      },
+      {
+        "text": "bye now",
+	"intent": "ThankYou",
+        "entities": []
+      },
+      {
+	"text": "goodbye",
+	"intent": "ThankYou",
+	"entities": []
+      },
+      {
+	"text": "gotta go",
+	"intent": "ThankYou",
+	"entities": []
+      },
+      {
+        "text": "thank you",
+	"intent": "ThankYou",
+        "entities": []
+      },
+      {
+	"text": "I need to report a device as lost",
+	"intent": "Report",
+	"entities": []
+      },
+      {
+	"text": "My device was stolen",
+	"intent": "Report",
+	"entities": []
+      },
+      {
+        "text": "I lost my device",
+	"intent": "Report",
+        "entities": []
+      },
+      {
+	"text": "My phone was stolen",
+	"intent": "Report",
+	"entities": []
+      },
+      {
+	"text": "lost my device need to report about it",
+	"intent": "Report",
+	"entities": []
+      },
+      {
+	"text": "Iphone",
+	"intent": "Device",
+	"entities": []
+      },
+      {
+        "text": "Surface",
+	"intent": "Device",
+        "entities": []
+      },
+      {
+	"text": "Apple MacBook",
+	"intent": "Device",
+	"entities": []
+      },
+      {
+	"text": "hi",
+        "intent": "Greetings",
+	"entities": []
+      },
+      {
+        "text": "what can u do",
+	"intent": "Capabilities",
+        "entities": []
+      },
+      {
+        "text": "how can u help me",
+	"intent": "Capabilities",
+	"entities": []
+      },
+      {
+	"text": "Never mind",
+	"intent": "NeverMind",
+	"entities": []
+      },
+      {
+        "text": "Not required",
+	"intent": "NeverMind",
+	"entities": []
+       },
+       {
+	"text": "I'm not looking for this",
+	"intent": "NeverMind",
+	"entities": []
+       },
+       {
+	"text": "Not this one actually",
+	"intent": "NeverMind",
+	"entities": []
+       },
+       {
+        "text": "not this one",
+	"intent": "NeverMind",
+        "entities": []
+       },
+       {
+        "text": "I want to order Pizza",
+	"intent": "AnythingElse",
+        "entities": []
+       },
+       {
+        "text": "Where is Miracle",
+	"intent": "AnythingElse",
+        "entities": []
+       },
+       {
+        "text": "How much does it cost",
+	"intent": "AnythingElse",
+	"entities": []
+       },
+       {
+	"text": "Prepare some stuff to eat",
+	"intent": "AnythingElse",
+	"entities": []
+       },
+       {
+	"text": "Play some music",
+	"intent": "AnythingElse",
+	"entities": []
+       },
+  }
+}
+    
+
